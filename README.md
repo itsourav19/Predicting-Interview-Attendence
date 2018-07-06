@@ -13,3 +13,6 @@ D tree
 clusting
 
 linear and logistics rgn
+
+
+https://www.kaggle.com/ccorbi/predicting-attendance-cleaning-data-models
