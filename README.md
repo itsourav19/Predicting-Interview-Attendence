@@ -16,3 +16,6 @@ linear and logistics rgn
 
 
 https://www.kaggle.com/ccorbi/predicting-attendance-cleaning-data-models
+
+Full:
+https://github.com/mikulskibartosz/the-interview-attendance-problem/blob/master/prediction.ipynb
