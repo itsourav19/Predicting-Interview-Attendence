@@ -19,3 +19,8 @@ https://www.kaggle.com/ccorbi/predicting-attendance-cleaning-data-models
 
 Full:
 https://github.com/mikulskibartosz/the-interview-attendance-problem/blob/master/prediction.ipynb
+
+TO DO:
+1.ROC
+2.AOC
+3.Cross validation
