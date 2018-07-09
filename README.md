@@ -22,5 +22,5 @@ https://github.com/mikulskibartosz/the-interview-attendance-problem/blob/master/
 
 TO DO:
 1.ROC
-2.AOC
+2.AUC
 3.Cross validation
