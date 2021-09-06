@@ -1,5 +1,5 @@
-# Predicting-Interview-Attendence
-Predicting Interview Attendence by Meachine Learning
+# Predicting-Interview-Attendance
+Predicting Interview Attendance by Meachine Learning
 
 
 Cleaning of Datasets
